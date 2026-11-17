@@ -39,9 +39,7 @@ I'm a developer passionate about building reliable backend systems and full-stac
 
 **BUILD • LEARN • INNOVATE**
 
-\</td>
-\</tr>
-\</table>
+\</td> \</tr> \</table>
 
 ---
 
@@ -109,9 +107,7 @@ Banking application with transaction and account management features.
 
 `Node.js` `MySQL`
 
-\</td>
-\</tr>
-\</table>
+\</td> \</tr> \</table>
 
 ---
 
@@ -145,12 +141,7 @@ Banking application with transaction and account management features.
 
 ### ◈ CONNECT WITH ME
 
-\<a href="[https://github.com/KaranC-DEV](https://github.com/KaranC-DEV)">
-\<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00D9FF)"/>
-\</a>
-\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF)"/>
-\</a>
+\<a href="[https://github.com/KaranC-DEV](https://github.com/KaranC-DEV)"> \<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00D9FF)"/> \</a> \<a href="[https://www.linkedin.com/](https://www.linkedin.com/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF)"/> \</a>
 
 \<br/>\<br/>
 
