@@ -1,121 +1,163 @@
- 
-<!-- Profile README for KaranC-DEV -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Karan%20Chauhan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
+\<div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Building+Scalable+Backend+Applications;Always+Learning+and+Building" alt="Typing SVG"/>
-</a>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090A1A,35:14213D,70:263B67,100:00C9FF&text=Karan%20Chauhan&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=JAVA%20BACKEND%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=15&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=230\&color=0:090A1A,35:14213D,70:263B67,100:00C9FF\&text=Karan%20Chauhan\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=JAVA%20BACKEND%20%7C%20FULL%20STACK%20DEVELOPER\&descAlignY=58\&descSize=15\&animation=fadeIn)"/>
 
-<br/>
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Full+Stack+Developer;Building+Scalable+Applications;Turning+Ideas+Into+Code](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=19\&duration=3000\&pause=900\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Java+Backend+Developer;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Full+Stack+Developer;Building+Scalable+Applications;Turning+Ideas+Into+Code)" />
 
-**Building applications. Solving problems. Writing better code.**
+\<br/>
 
-[GitHub](https://github.com/KaranC-DEV) · Open to Software Engineering Opportunities
+\<a href="[https://github.com/KaranC-DEV](https://github.com/KaranC-DEV)"> \<img src="[https://img.shields.io/badge/GitHub-KaranC--DEV-111827?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-KaranC--DEV-111827?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a> \<img src="[https://img.shields.io/badge/OPEN_TO_WORK-00C9FF?style=for-the-badge&logo=rocket&logoColor=black](https://img.shields.io/badge/OPEN_TO_WORK-00C9FF?style=for-the-badge\&logo=rocket\&logoColor=black)"/>
 
-</div>
+\</div>
 
 ---
 
-## About Me
+\<div align="center">
 
-I'm a Software Engineer focused on Java backend and full-stack development.
+### ◈ ABOUT ME
 
-- Developing backend applications using Java and Spring Boot.
-- Building REST APIs and secure authentication systems.
-- Working with relational and NoSQL databases.
-- Exploring system design, cloud technologies and scalable applications.
-- Constantly learning through practical projects.
+\</div>
 
----
+\<table>
+\<tr>
+\<td width="60%">
 
-## Tech Stack
+I'm a developer passionate about building reliable backend systems and full-stack applications.
 
-<div align="center">
+- Java and Spring Boot development
+- REST API development and JWT authentication
+- Database design and optimization
+- React.js frontend development
+- Exploring system design and cloud technologies
 
-**Languages**
+\</td>
+\<td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+\<img src="[https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,git,docker&perline=3](https://skillicons.dev/icons?i=java,spring,react,mysql,postgres,git,docker\&perline=3)" />
 
-**Backend & Frameworks**
+**BUILD • LEARN • INNOVATE**
 
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,react" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea" />
-
-</div>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-## Featured Projects
+\<div align="center">
 
-| Project | Description | Technologies |
-|---|---|---|
-| Chat Application | Real-time messaging, authentication, connections and group chats | Spring Boot, React, PostgreSQL, WebSocket |
-| Online Ticket Booking | Backend-driven ticket booking system | Spring Boot, Java |
-| Placement Portal | Platform for managing placement-related workflows | Node.js, Express, MongoDB |
-| Banking System | Banking operations and transaction management | Node.js, MySQL |
-| URL Shortener | URL shortening application | Spring Boot, Java |
-| DIGI-NEWS | News platform with OTP-based registration | Node.js, Express, MySQL |
+### ◈ TECH ARSENAL
 
----
+\</div>
 
-## GitHub Statistics
+| Category  | Technologies                                             |
+| --------- | -------------------------------------------------------- |
+| Languages | Java, JavaScript, Python                                 |
+| Backend   | Spring Boot, Hibernate, JDBC, Servlets, Node.js, Express |
+| Frontend  | React.js, HTML, CSS                                      |
+| Databases | MySQL, PostgreSQL, MongoDB                               |
+| Tools     | Git, GitHub, Docker, Postman, VS Code, IntelliJ IDEA     |
 
-<div align="center">
+\<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KaranC-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+\<img src="[https://skillicons.dev/icons?i=java,spring,hibernate,js,react,nodejs,mysql,postgres,mongodb,git,github,docker,postman&perline=7](https://skillicons.dev/icons?i=java,spring,hibernate,js,react,nodejs,mysql,postgres,mongodb,git,github,docker,postman\&perline=7)"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranC-DEV&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=KaranC-DEV&theme=tokyonight&hide_border=true" />
-
-</div>
+\</div>
 
 ---
 
-## Contribution Activity
+\<div align="center">
 
-<div align="center">
+### ◈ FEATURED PROJECTS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaranC-DEV&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+\</div>
 
-</div>
+\<table>
+\<tr>
+\<td width="50%">
+
+### Chat Application
+
+Spring Boot + React messaging application with authentication, connections, private chats and group conversations.
+
+`Java` `Spring Boot` `React` `PostgreSQL` `WebSocket`
+
+\</td>
+\<td width="50%">
+
+### Online Ticket Booking
+
+Backend-driven ticket booking system built using Spring Boot.
+
+`Java` `Spring Boot` `REST API`
+
+\</td> \</tr> \<tr> \<td width="50%">
+
+### Placement Portal
+
+Placement management application for students and recruitment workflows.
+
+`Node.js` `Express` `MongoDB`
+
+\</td>
+\<td width="50%">
+
+### Banking System
+
+Banking application with transaction and account management features.
+
+`Node.js` `MySQL`
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-## Let's Connect
+\<div align="center">
 
-<div align="center">
+### ◈ GITHUB PERFORMANCE
 
-<a href="https://github.com/KaranC-DEV">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=KaranC-DEV&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=263B67&hide_border=false&rank_icon=github](https://github-readme-stats.vercel.app/api?username=KaranC-DEV\&show_icons=true\&theme=transparent\&bg_color=0D1117\&title_color=00D9FF\&icon_color=00D9FF\&text_color=C9D1D9\&border_color=263B67\&hide_border=false\&rank_icon=github)"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=KaranC-DEV&layout=compact&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=263B67](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranC-DEV\&layout=compact\&theme=transparent\&bg_color=0D1117\&title_color=00D9FF\&text_color=C9D1D9\&border_color=263B67)"/>
 
-</div>
+\<br/>
 
-<div align="center">
+\<img width="75%" src="[https://streak-stats.demolab.com?user=KaranC-DEV&theme=transparent&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E&border=263B67](https://streak-stats.demolab.com?user=KaranC-DEV\&theme=transparent\&background=0D1117\&ring=00D9FF\&fire=00D9FF\&currStreakLabel=00D9FF\&sideLabels=C9D1D9\&dates=8B949E\&border=263B67)"/>
 
-<img src="https://komarev.com/ghpvc/?username=KaranC-DEV&style=flat-square&color=blue" alt="Profile views"/>
+\</div>
 
-<br/><br/>
+---
+
+\<div align="center">
+
+### ◈ CONTRIBUTION SNAKE
+
+\<img src="[https://raw.githubusercontent.com/KaranC-DEV/KaranC-DEV/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/KaranC-DEV/KaranC-DEV/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake"/>
+
+\</div>
+
+---
+
+\<div align="center">
+
+### ◈ CONNECT WITH ME
+
+\<a href="[https://github.com/KaranC-DEV](https://github.com/KaranC-DEV)">
+\<img src="[https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=00D9FF)"/>
+\</a>
+\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=00D9FF)"/>
+\</a>
+
+\<br/>\<br/>
+
+\<img src="[https://komarev.com/ghpvc/?username=KaranC-DEV&style=for-the-badge&color=263B67&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=KaranC-DEV\&style=for-the-badge\&color=263B67\&label=PROFILE+VIEWS)"/>
 
 **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,35:263B67,70:14213D,100:090A1A&section=footer](https://capsule-render.vercel.app/api?type=waving\&height=120\&color=0:00C9FF,35:263B67,70:14213D,100:090A1A\&section=footer)"/>
 
-</div>
+\</div>
