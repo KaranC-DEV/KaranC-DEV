@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:00C9FF,50:263B67,100:090A1A&text=KARAN%20CHAUHAN&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=Java%20Full%20Stack%20Developer&descAlignY=64&descSize=20&animation=twinkling" alt="Karan Chauhan - Java Full Stack Developer"/>
+<img width="100%" src="./assets/hero.svg" alt="Karan Chauhan - Java Full Stack Developer"/>
 
 <a href="https://github.com/KaranC-DEV">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Karan+Chauhan;Java+Full+Stack+Developer+%E2%98%95;Spring+Boot+%7C+Hibernate+%7C+Spring+Security;REST+APIs+%7C+JWT+%7C+MySQL+%7C+PostgreSQL;React.js+on+the+front%2C+Java+on+the+back;Building+scalable+full-stack+applications" alt="Typing SVG"/>
@@ -23,16 +23,6 @@
 
 <img width="100%" src="./assets/snow.svg" alt=""/>
 
-
-<div align="center">
-
-## 🧊 3D CORE
-
-<img src="./assets/3d-core.svg" width="100%" alt="Animated 3D wireframe core"/>
-
-</div>
-
-<img width="100%" src="./assets/snow.svg" alt=""/>
 
 
 <div align="center">
