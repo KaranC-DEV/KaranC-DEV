@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:00C9FF,50:263B67,100:090A1A&text=KARAN%20CHAUHAN&fontSize=62&fontColor=FFFFFF&fontAlignY=42&desc=Java%20Backend%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=64&descSize=20&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:00C9FF,50:263B67,100:090A1A&text=KARAN%20CHAUHAN&fontSize=60&fontColor=FFFFFF&fontAlignY=42&desc=Java%20Full%20Stack%20Developer&descAlignY=64&descSize=20&animation=twinkling" alt="Karan Chauhan - Java Full Stack Developer"/>
 
 <a href="https://github.com/KaranC-DEV">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Karan+Chauhan;Java+Backend+Developer+%E2%98%95;Spring+Boot+%7C+Hibernate+%7C+REST+APIs;Full+Stack+with+React+%26+Node.js;Building+scalable%2C+secure+systems;Turning+ideas+into+production+code+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=50&lines=%24+whoami+%E2%86%92+Karan+Chauhan;Java+Full+Stack+Developer+%E2%98%95;Spring+Boot+%7C+Hibernate+%7C+Spring+Security;REST+APIs+%7C+JWT+%7C+MySQL+%7C+PostgreSQL;React.js+on+the+front%2C+Java+on+the+back;Building+scalable+full-stack+applications" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -21,7 +21,8 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -31,7 +32,8 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -40,21 +42,22 @@
 </div>
 
 ```java
-public class KaranChauhan implements Developer {
+public class KaranChauhan implements FullStackDeveloper {
 
-    private final String role        = "Java Backend Developer";
-    private final String stack[]     = {"Spring Boot", "Hibernate", "React", "PostgreSQL"};
-    private final String currently   = "Building real-time & scalable applications";
-    private final String learning[]  = {"System Design", "Microservices", "Docker & Cloud (AWS)"};
-    private final String motto       = "Write clean code. Ship real products.";
+    private final String role      = "Java Full Stack Developer";
+    private final String backend[] = {"Java", "Spring Boot", "Spring Security", "Hibernate / JPA"};
+    private final String frontend  = "React.js + JavaScript";
+    private final String data[]    = {"MySQL", "PostgreSQL"};
+    private final String learning[] = {"Microservices", "System Design", "Docker & AWS"};
+    private final String motto     = "Write clean code. Ship real products.";
 
     @Override
     public void code() {
         while (alive) {
             learn();
             build();
+            test();
             deploy();
-            repeat();
         }
     }
 }
@@ -64,31 +67,18 @@ public class KaranChauhan implements Developer {
 
 | 🔭 Working on | 🌱 Learning | 🎯 Goal | ⚡ Fun fact |
 |:---:|:---:|:---:|:---:|
-| Real-time chat systems with WebSocket | System Design, Microservices, Cloud | Become a strong Backend Engineer | I debug with coffee ☕ |
+| Real-time apps with Spring Boot + WebSocket | Microservices, System Design, Cloud | Become a strong Java Full Stack Engineer | I debug with coffee ☕ |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
-## 🛠️ TECH ARSENAL
+## 🛠️ TECH ARSENAL &nbsp;·&nbsp; JAVA FULL STACK
 
-</div>
-
-<div align="center">
-
-### ☕ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express,python&perline=6"/>
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=5"/>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3"/>
-
-### 🧰 Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode,linux&perline=7"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,mysql,postgres,react,js,html,css,bootstrap,git,github,docker,postman,idea,eclipse,vscode&perline=9"/>
 
 </div>
 
@@ -96,18 +86,43 @@ public class KaranChauhan implements Developer {
 
 <div align="center">
 
-| Category | Technologies |
+| Layer | Technologies |
 |:---:|:---|
-| 🧠 **Languages** | `Java` `JavaScript` `Python` `SQL` |
-| ⚙️ **Backend** | `Spring Boot` `Spring Security` `Hibernate / JPA` `JDBC` `Servlets` `Node.js` `Express` |
-| 🎨 **Frontend** | `React.js` `HTML5` `CSS3` `Tailwind` |
-| 🗄️ **Databases** | `MySQL` `PostgreSQL` `MongoDB` |
-| 🔐 **Concepts** | `REST APIs` `JWT Auth` `WebSocket` `OOP` `MVC` `DSA` |
-| 🧰 **Tools** | `Git` `GitHub` `Docker` `Postman` `IntelliJ IDEA` |
+| ☕ **Core Java** | `Java 8+` `OOP` `Collections` `Multithreading` `Streams & Lambda` `Exception Handling` `JDBC` `DSA` |
+| 🌐 **Web (Java)** | `Servlets` `JSP` `Spring MVC` `REST APIs` `JSON` |
+| 🍃 **Spring Ecosystem** | `Spring Boot` `Spring MVC` `Spring Security` `Spring Data JPA` `Hibernate` `JWT` `Lombok` `Validation` |
+| 🎨 **Frontend** | `React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap` `Axios / Fetch` |
+| 🗄️ **Databases** | `MySQL` `PostgreSQL` `SQL & Joins` `Schema Design` `Indexing` |
+| 🧪 **Build & Testing** | `Maven` `JUnit` `Mockito` `Postman` `Swagger / OpenAPI` |
+| 🚀 **DevOps & Tools** | `Git` `GitHub` `Docker` |
+| 💻 **IDEs** | `IntelliJ IDEA` `Eclipse` `VS Code` |
+| 📡 **Real-Time** | `WebSocket` `STOMP` |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+</div>
+
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -136,7 +151,8 @@ public class KaranChauhan implements Developer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -153,27 +169,19 @@ public class KaranChauhan implements Developer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
-## 🧊 3D CONTRIBUTION CITY
+## 🏙️ FULL STACK CITY
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-## 🏆 TROPHY CABINET
-
-<img src="https://github-profile-trophy.vercel.app/?username=KaranC-DEV&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+<img src="./assets/full-stack-city.svg" width="100%" alt="Animated isometric Java Full Stack City"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -183,7 +191,8 @@ public class KaranChauhan implements Developer {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -193,14 +202,15 @@ public class KaranChauhan implements Developer {
 
 ```mermaid
 timeline
-    title Developer Journey
-    Foundation  : Java & OOP : DSA : SQL
-    Backend     : Spring Boot : Hibernate : REST + JWT
-    Full Stack  : React.js : Node.js : WebSocket
-    Next Level  : Docker : System Design : Microservices : AWS
+    title Java Full Stack Journey
+    Foundation  : Core Java : OOP : Collections : DSA : SQL
+    Backend     : Spring Boot : Spring Security : Hibernate / JPA : REST + JWT
+    Full Stack  : React.js : JavaScript : WebSocket : MySQL / PostgreSQL
+    Next Level  : Docker : Microservices : System Design : AWS
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
@@ -209,20 +219,19 @@ timeline
 <a href="https://github.com/KaranC-DEV">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/karanchauhan-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:chauhankaran2106@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=googlechrome&logoColor=090A1A"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22First+solve+the+problem.+Then+write+the+code.%22;%22Make+it+work.+Make+it+right.+Make+it+fast.%22;Thanks+for+visiting+my+profile+%E2%9D%A4%EF%B8%8F"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%22First+solve+the+problem.+Then+write+the+code.%22;%22Make+it+work.+Make+it+right.+Make+it+fast.%22;chauhankaran2106%40gmail.com"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,50:263B67,100:090A1A&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C9FF,50:263B67,100:090A1A&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=FFFFFF&fontAlignY=70" alt="Thanks for visiting"/>
 
 </div>
