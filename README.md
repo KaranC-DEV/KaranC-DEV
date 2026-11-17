@@ -25,6 +25,16 @@
 
 <div align="center">
 
+## 🧊 3D CORE
+
+<img src="./assets/3d-core.svg" width="100%" alt="Animated 3D wireframe core"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
 ## ⚡ ABOUT ME
 
 </div>
@@ -103,64 +113,20 @@ public class KaranChauhan implements Developer {
 
 ## 🚀 FEATURED PROJECTS
 
+<a href="https://github.com/KaranC-DEV/Real-Time-Chat-App">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Real-Time-Chat-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/KaranC-DEV/Online-Ticket-Booking-System">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Online-Ticket-Booking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/KaranC-DEV/Connectify">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Connectify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
+</a>
+<a href="https://github.com/KaranC-DEV/Link-Forge">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Link-Forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
+</a>
+
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Real-Time Chat Application
-Full-stack messaging platform with secure authentication, user connections, private chats and group conversations — powered by WebSockets.
-
-- 🔐 JWT-based authentication
-- ⚡ Real-time messaging with WebSocket
-- 👥 Private & group conversations
-- 🤝 Connection / friend system
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎟️ Online Ticket Booking System
-Backend-driven booking platform with clean REST APIs for browsing, booking and managing tickets.
-
-- 🧩 Layered architecture (Controller → Service → Repository)
-- 📡 RESTful API design
-- ✅ Validation & exception handling
-- 🗃️ Relational data modelling
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-263B67?style=flat-square"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 Placement Portal
-Placement management application that connects students, recruiters and administrators in one place.
-
-- 👨‍🎓 Student & admin dashboards
-- 📝 Application tracking
-- 🔎 Search & filtering
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 Banking System
-Banking application with secure account handling and transaction management.
-
-- 💳 Account creation & management
-- 🔁 Deposits, withdrawals & transfers
-- 📜 Transaction history
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -184,6 +150,16 @@ Banking application with secure account handling and transaction management.
 <br/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KaranC-DEV&bg_color=0D1117&color=00C9FF&line=00C9FF&point=FFFFFF&area=true&area_color=00C9FF&hide_border=true"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## 🧊 3D CONTRIBUTION CITY
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
