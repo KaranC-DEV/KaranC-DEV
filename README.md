@@ -129,92 +129,109 @@ public class KaranChauhan {
 
 ## 🚀 FEATURED PROJECTS
 
-<p align="center">
+<p>
   A selection of projects showcasing my experience in Java,
   Spring Boot, REST API development, real-time communication, and React.js.
 </p>
 
 </div>
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
 <td width="50%" align="center" valign="top">
 
-<a href="https://my-portfolio-ten-rose-99.vercel.app/">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=MY-PORTFOLIO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9" alt="Personal Portfolio Repository"/>
-</a>
+<h3>🌐 Personal Portfolio</h3>
 
-### 🌐 Personal Portfolio
+<p>
+A responsive developer portfolio showcasing my technical skills,
+projects, professional background, and contact information.
+</p>
 
-A responsive developer portfolio showcasing my technical skills, projects, professional background, and contact information.
+<p>
+<strong>Tech Stack</strong><br/>
+React.js · JavaScript · HTML · CSS
+</p>
 
-**Tech:** React.js · JavaScript · HTML · CSS
-
+<p>
 <a href="https://github.com/KaranC-DEV/MY-PORTFOLIO">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://my-portfolio-ten-rose-99.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-PORTFOLIO-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
+<h3>🎬 Cinebook</h3>
+
+<p>
+A full-stack movie ticket booking application featuring movie browsing,
+showtime selection, seat booking, and role-based Admin and Customer authentication.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br/>
+Java · Spring Boot · Spring Security · JWT · Hibernate · PostgreSQL · React.js
+</p>
+
+<p>
 <a href="https://github.com/KaranC-DEV/Online-Ticket-Booking-System">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Online-Ticket-Booking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9" alt="Cinebook Repository"/>
-</a>
-
-### 🎬 Cinebook
-
-A full-stack movie ticket booking application featuring movie browsing, showtime selection, seat booking, and role-based Admin and Customer authentication.
-
-**Tech:** Java · Spring Boot · Spring Security · JWT · Hibernate · PostgreSQL · React.js
-
-<a href="https://github.com/KaranC-DEV/Online-Ticket-Booking-System">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://online-ticket-booking-system-cinebo.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-DEMO-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 
+<h3>💬 Connectify</h3>
+
+<p>
+A real-time chat application supporting private messaging,
+group conversations, and user connections using WebSocket and STOMP.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br/>
+Java · Spring Boot · WebSocket · STOMP · Spring Security · JWT · PostgreSQL · React.js
+</p>
+
+<p>
 <a href="https://github.com/KaranC-DEV/Connectify">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Connectify&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9" alt="Connectify Repository"/>
-</a>
-
-### 💬 Connectify
-
-A real-time chat application supporting private messaging, group conversations, and user connections using WebSocket and STOMP.
-
-**Tech:** Java · Spring Boot · WebSocket · STOMP · Spring Security · JWT · PostgreSQL · React.js
-
-<a href="https://github.com/KaranC-DEV/Connectify">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://connectify-chatter-react-frontend.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE-DEMO-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+</p>
 
 </td>
 <td width="50%" align="center" valign="top">
 
+<h3>🔗 Link Forge</h3>
+
+<p>
+A URL shortener application that generates compact links and redirects
+users to their original URLs, with REST APIs, authentication,
+and database persistence.
+</p>
+
+<p>
+<strong>Tech Stack</strong><br/>
+Java · Spring Boot · Spring Data JPA · Hibernate · REST API · JWT · PostgreSQL · React.js
+</p>
+
+<p>
 <a href="https://github.com/KaranC-DEV/Link-Forge">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Link-Forge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9" alt="Link Forge Repository"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY-181717?style=for-the-badge&logo=github"/>
 </a>
-
-### 🔗 Link Forge
-
-A URL shortener application that generates compact links and redirects users to their original URLs, with REST APIs, authentication, and database persistence.
-
-**Tech:** Java · Spring Boot · Spring Data JPA · Hibernate · REST API · JWT · PostgreSQL · React.js · Material UI
-
-<a href="https://github.com/KaranC-DEV/Link-Forge">
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+</p>
 
 </td>
 </tr>
@@ -222,8 +239,10 @@ A URL shortener application that generates compact links and redirects users to 
 
 <div align="center">
 
+<br/>
+
 <a href="https://github.com/KaranC-DEV?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-00C9FF?style=for-the-badge&labelColor=090A1A"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-00C9FF?style=for-the-badge&labelColor=090A1A"/>
 </a>
 
 </div>
@@ -289,13 +308,13 @@ timeline
 ## 🤝 LET'S CONNECT
 
 <a href="https://github.com/KaranC-DEV">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00D9FF"/>
 </a>
 <a href="https://www.linkedin.com/in/karanchauhan-dev">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:chauhankaran2106@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
