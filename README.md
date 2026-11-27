@@ -264,7 +264,7 @@ Java · Spring Boot · Spring Data JPA · Hibernate · REST API · JWT · Postgr
 
 </div>
 
-<img width="100%" src="./assets/snow.svg" alt=""/>
+
 
 <div align="center">
 
