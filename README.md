@@ -118,8 +118,8 @@ public class KaranChauhan implements FullStackDeveloper {
 
 ## 🚀 FEATURED PROJECTS
 
-<a href="https://github.com/KaranC-DEV/Real-Time-Chat-App">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Real-Time-Chat-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
+<a href="https://my-portfolio-ten-rose-99.vercel.app/">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=MY-PORTFOLIO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9" />
 </a>
 <a href="https://github.com/KaranC-DEV/Online-Ticket-Booking-System">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaranC-DEV&repo=Online-Ticket-Booking-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&text_color=C9D1D9"/>
